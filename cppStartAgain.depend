@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1521806071 source:/Users/joekelly/Desktop/cppStartAgain/main.cpp
+	<iostream>
+
+1521408101 /Users/joekelly/Desktop/cppStartAgain/ClassPractice.h
+
+1521408260 source:/Users/joekelly/Desktop/cppStartAgain/ClassPractice.cpp
+	"ClassPractice.h"
+	<iostream>
+

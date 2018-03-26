@@ -34,7 +34,14 @@
 		</Compiler>
 		<Unit filename="ClassPractice.cpp" />
 		<Unit filename="ClassPractice.h" />
+		<Unit filename="LinkedList.cpp" />
+		<Unit filename="LinkedList.h" />
+		<Unit filename="Node.cpp" />
+		<Unit filename="Node.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="sortingAlgos.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />

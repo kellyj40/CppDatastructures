@@ -14,7 +14,7 @@ int partitionQuickSort (int arr[], int low, int high);
 
 
 ///////////////////////////-------------- Bubble sort --> loop start to finish until no more swaps occur.------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
+//
 void bubbleSort(int arr[], int size)
 {
     bool swapped = false;
@@ -35,7 +35,7 @@ void bubbleSort(int arr[], int size)
     cout<<""<<endl;
 }
 ///////////////////////////-------------- Insertion sort --> ripple effect, continue moving down until cant anymore ------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
+//
 void insertionSort(int arr[], int size)
 {
 
@@ -137,6 +137,7 @@ void mergeSort(int arr[], int l, int r)
 
 
 ///////////////////////////-------------- Quick Sort, divide and conquer using pivot value ------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+//
 
 void swapPositions(int* a, int* b)
 {

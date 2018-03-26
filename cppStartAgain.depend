@@ -1,10 +1,30 @@
 # depslib dependency file v1.0
-1521806071 source:/Users/joekelly/Desktop/cppStartAgain/main.cpp
+1522083117 source:/Users/joekelly/Desktop/cppStartAgain/main.cpp
 	<iostream>
+	"sortingAlgorithms"
+	"Node.h"
+	"LinkedList.h"
 
 1521408101 /Users/joekelly/Desktop/cppStartAgain/ClassPractice.h
 
 1521408260 source:/Users/joekelly/Desktop/cppStartAgain/ClassPractice.cpp
 	"ClassPractice.h"
 	<iostream>
+
+1522083099 source:/Users/joekelly/Desktop/cppStartAgain/LinkedList.cpp
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+
+1522083162 /Users/joekelly/Desktop/cppStartAgain/LinkedList.h
+	"Node.h"
+
+1522081504 /Users/joekelly/Desktop/cppStartAgain/sortingAlgorithms
+	<iostream>
+
+1522078104 /Users/joekelly/Desktop/cppStartAgain/Node.h
+
+1522078024 source:/Users/joekelly/Desktop/cppStartAgain/Node.cpp
+	<iostream>
+	"Node.h"
 
